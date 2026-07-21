@@ -1,0 +1,24 @@
+{
+    "name": "quoteapi",
+    "version": "1.0.1",
+    "description": "A simple API that returns a random quote. Built with Vercel serverless functions.",
+    "author": {
+        "name": "arcmage",
+        "url": "https://voltsec.xyz/"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/VoltSec3/quoteapi"
+    },
+    "keywords": [
+        "api",
+        "quotes",
+        "vercel",
+        "serverless",
+        "javascript"
+    ],
+    "scripts": {
+        "dev": "vercel dev"
+    }
+}
